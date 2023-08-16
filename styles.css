@@ -24,6 +24,9 @@ ul>li:first-child{
 ul>li:nth-child(2){
 	background-color:gray
 }
+ul>li:nth-child(odd){
+	background-color:white;
+}
 ul>li:nth-child(4){
 	background-color:gray
 }
